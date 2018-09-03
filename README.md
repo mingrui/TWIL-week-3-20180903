@@ -16,3 +16,8 @@ https://www.youtube.com/watch?v=i40d8-Hu4vM
 
 Markov Chains explained visually:  
 http://setosa.io/ev/markov-chains/
+
+## Python
+
+How to easily install your own python modules:  
+https://ajminich.com/2013/06/22/how-to-easily-import-your-own-python-packages/
