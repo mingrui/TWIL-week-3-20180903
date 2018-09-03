@@ -13,3 +13,6 @@ https://github.com/Hvass-Labs/TensorFlow-Tutorials
 A cool bloomberg presentation:  
 Building Interactive Applications and Dashboards in the Jupyter Notebook  
 https://www.youtube.com/watch?v=i40d8-Hu4vM
+
+Markov Chains explained visually:  
+http://setosa.io/ev/markov-chains/
