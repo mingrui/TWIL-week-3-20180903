@@ -21,3 +21,9 @@ http://setosa.io/ev/markov-chains/
 
 How to easily install your own python modules:  
 https://ajminich.com/2013/06/22/how-to-easily-import-your-own-python-packages/
+
+
+## Chrome
+
+Use rename tab plugin to keep track of multiple open jupyter lab / notebook tabs:  
+https://chrome.google.com/webstore/detail/renametab/mkailnbloeepkajmoblllhhhckpbbncg/related?hl=en-GB
