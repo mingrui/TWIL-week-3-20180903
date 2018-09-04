@@ -17,6 +17,9 @@ https://www.youtube.com/watch?v=i40d8-Hu4vM
 Markov Chains explained visually:  
 http://setosa.io/ev/markov-chains/
 
+Scipy-Cookbook:  
+https://scipy-cookbook.readthedocs.io/items/Matplotlib_AdjustingImageSize.html
+
 ## Python
 
 How to easily install your own python modules:  
