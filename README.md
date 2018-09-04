@@ -22,6 +22,8 @@ http://setosa.io/ev/markov-chains/
 How to easily install your own python modules:  
 https://ajminich.com/2013/06/22/how-to-easily-import-your-own-python-packages/
 
+Traps for the Unwary in Python’s Import System: A great python blog   
+https://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html
 
 ## Chrome
 
