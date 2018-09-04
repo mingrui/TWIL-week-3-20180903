@@ -32,3 +32,8 @@ https://python-notes.curiousefficiency.org/en/latest/python_concepts/import_trap
 
 Use rename tab plugin to keep track of multiple open jupyter lab / notebook tabs:  
 https://chrome.google.com/webstore/detail/renametab/mkailnbloeepkajmoblllhhhckpbbncg/related?hl=en-GB
+
+## Devops
+
+Format disk, terminal:  
+https://askubuntu.com/questions/283559/how-can-i-run-disk-utility-in-terminal-via-a-comand-line
