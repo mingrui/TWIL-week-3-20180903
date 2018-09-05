@@ -23,6 +23,9 @@ https://scipy-cookbook.readthedocs.io/items/Matplotlib_AdjustingImageSize.html
 How to globally set matplotlib plot size in jupyter:  
 https://stackoverflow.com/questions/36367986/how-to-make-inline-plots-in-jupyter-notebook-larger
 
+LMDB vs HDF5:  
+http://deepdish.io/2015/04/28/creating-lmdb-in-python/
+
 ## Python
 
 How to easily install your own python modules:  
