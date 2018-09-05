@@ -37,6 +37,9 @@ https://ajminich.com/2013/06/22/how-to-easily-import-your-own-python-packages/
 Traps for the Unwary in Python’s Import System: A great python blog   
 https://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html
 
+Autopep8:  extemely useful for fixing indentation inconsistencies
+https://github.com/hhatto/autopep8
+
 ## Chrome
 
 Use rename tab plugin to keep track of multiple open jupyter lab / notebook tabs:  
