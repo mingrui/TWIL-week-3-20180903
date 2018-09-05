@@ -40,3 +40,8 @@ https://chrome.google.com/webstore/detail/renametab/mkailnbloeepkajmoblllhhhckpb
 
 Format disk, terminal:  
 https://askubuntu.com/questions/283559/how-can-i-run-disk-utility-in-terminal-via-a-comand-line
+
+## Language
+
+Cool thread on Japanese:  
+https://www.reddit.com/r/languagelearning/comments/6q4h6a/a_year_to_learn_japanese/
