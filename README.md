@@ -24,7 +24,10 @@ How to globally set matplotlib plot size in jupyter:
 https://stackoverflow.com/questions/36367986/how-to-make-inline-plots-in-jupyter-notebook-larger
 
 LMDB vs HDF5:  
-http://deepdish.io/2015/04/28/creating-lmdb-in-python/
+http://deepdish.io/2015/04/28/creating-lmdb-in-python/  
+
+Howard Chu's answer on why Monero is using LMDB:  
+https://monero.stackexchange.com/questions/702/why-did-monero-choose-lmdb-over-alternative-database-types
 
 ## Python
 
