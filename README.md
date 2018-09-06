@@ -40,6 +40,11 @@ https://python-notes.curiousefficiency.org/en/latest/python_concepts/import_trap
 Autopep8:  extemely useful for fixing indentation inconsistencies
 https://github.com/hhatto/autopep8
 
+## Data Visualization
+
+Tableau:  Third richest professor in the U.S.  
+https://www.tableau.com/
+
 ## Chrome
 
 Use rename tab plugin to keep track of multiple open jupyter lab / notebook tabs:  
