@@ -45,6 +45,9 @@ https://github.com/hhatto/autopep8
 Tableau:  Third richest professor in the U.S.  
 https://www.tableau.com/
 
+Baidu ECharts:  
+http://echarts.baidu.com/
+
 ## Chrome
 
 Use rename tab plugin to keep track of multiple open jupyter lab / notebook tabs:  
