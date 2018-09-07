@@ -53,6 +53,9 @@ http://echarts.baidu.com/
 Vim rename variable:  
 https://www.reddit.com/r/vim/comments/1zvks1/best_way_to_rename_variable_in_several_spots_in_a/
 
+Auto complete:  
+https://github.com/davidhalter/jedi-vim
+
 ## Chrome
 
 Use rename tab plugin to keep track of multiple open jupyter lab / notebook tabs:  
