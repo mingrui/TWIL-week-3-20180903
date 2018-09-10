@@ -29,6 +29,12 @@ http://deepdish.io/2015/04/28/creating-lmdb-in-python/
 Howard Chu's answer on why Monero is using LMDB:  
 https://monero.stackexchange.com/questions/702/why-did-monero-choose-lmdb-over-alternative-database-types
 
+## Unsupervised Learning
+
+Unsupervised image segmentation:  
+https://kanezaki.github.io/pytorch-unsupervised-segmentation/  
+https://github.com/bohu615/nu_gan  
+
 ## Python
 
 How to easily install your own python modules:  
